@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/rarciniegas/portfolio_website#readme",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
